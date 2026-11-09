@@ -1,0 +1,19 @@
+Nube Labs is hiring: Machine Learning Engineer (LLM)
+Ciudad de Mexico - hybrid, 3 days a week in the office
+
+We are a fintech startup using LLMs to read and classify financial documents.
+
+You will:
+* Fine-tune and serve open-source LLMs
+* Build document extraction pipelines with structured outputs
+* Deploy models behind FastAPI services
+
+You need:
+* Python and PyTorch
+* Experience with Hugging Face Transformers
+* Docker
+* Spanish and English
+
+Bonus points if you know vLLM or have worked with OCR.
+
+Salary: MXN 70,000 - 90,000 per month, plus benefits.

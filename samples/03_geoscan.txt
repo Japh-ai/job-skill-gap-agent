@@ -1,0 +1,18 @@
+GeoScan Analytics
+Applied Scientist, Seismic AI
+Houston, TX (on-site)
+
+GeoScan uses deep learning to detect and locate small earthquakes in real time for energy and mining clients.
+
+Responsibilities
+- Train deep learning models on continuous seismic waveform data
+- Turn research prototypes into production pipelines
+- Work with geophysicists to validate detections
+
+Qualifications
+- PhD in geophysics, seismology, computer science or a related field
+- Strong Python; PyTorch or TensorFlow
+- Experience with seismic data tools such as ObsPy
+- Publications in machine learning or seismology
+
+Familiarity with LLM agents or MCP is a bonus.

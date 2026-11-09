@@ -1,0 +1,22 @@
+Acme AI - Senior AI Engineer
+Remote (US)
+
+About the role
+Acme AI builds assistants for customer support teams. You'll design and ship RAG pipelines and LLM agents used by thousands of agents every day.
+
+What you'll do
+- Build retrieval pipelines over customer knowledge bases
+- Design agent workflows with LangChain and LangGraph
+- Set up evaluations to measure answer quality
+
+Requirements
+- 5+ years of software engineering experience, mostly in Python
+- Hands-on experience with LangChain or LlamaIndex
+- Experience with vector databases (Pinecone, Chroma or pgvector)
+- Strong SQL
+
+Nice to have
+- Kubernetes and AWS
+- Experience with LLM observability tools like LangSmith
+
+Compensation: $150,000 - $190,000 per year + equity
